@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(177, 194, 194);
+}
+.main-header {
+    color: #333; 
+    font-size: 2em; 
+    text-align: center; 
+    margin-top: 0px; 
+    background-color: darkorange;
+    height: 70px;
+    
+  }
+
+  nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin:  10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    color: #ff5733; 
+  }
+
+  .intro-paragraph {
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: ghostwhite;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
